@@ -1,0 +1,14 @@
+{
+  "name": "ts-scaffold",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev --respawn -- src/main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.27",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.3"
+  }
+}
